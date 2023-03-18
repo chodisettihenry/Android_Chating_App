@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+    <string name="email">EmailId</string>
+    <string name="password">Password</string>
+    <string name="signupemail">Emailid</string>
+    <string name="signuppassword">Password</string>
+    <string name="name">Name</string>
+    <string name="resetPassword">Emailid</string>
+
+
+</resources>
